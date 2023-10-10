@@ -1,6 +1,6 @@
 # Transformer_from_scratch
 
-## Project in progress !
+Project in progress !
 
 This is a transformer from scratch that I made for skill-building.
 The architecture is taken from the original Transformer paper.
