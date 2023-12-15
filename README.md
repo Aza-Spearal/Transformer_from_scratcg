@@ -1,6 +1,6 @@
 # Transformer_from_scratch
 
-Project in progress ! I finished the transformer, now I test it for translation to improve it.
+Project in progress ! I finished the transformer, now I try to create a translator for it
 
 This is a transformer from scratch that I made for skill-building.
 The architecture is taken from the original Transformer paper.
